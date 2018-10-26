@@ -1,0 +1,43 @@
+.navbarcolor{
+    background-color: #673ab7;
+    color: white;
+    font-weight:bold;
+
+}
+.navbarBrand{
+  font-size: 180% !important;
+}
+.navbarcolor:hover{
+  text-decoration: none;
+  color:#FFB673;
+}
+.textMain{
+  font-family: "Andale Mono";
+}
+.textQuestion{
+  font-family: "Andale Mono";
+}
+
+.button{
+  margin-top: 80px;
+  color: white;
+  background-color: #673ab7;
+}
+.question{
+  padding-top: 100px;
+}
+.bodyMain{
+  background-color: #beafd8;
+}
+.questionContainer{
+  background-color: white;
+  height: 700px;
+}
+hr{
+  color: #673ab7;
+  background-color: #673ab7;
+  height:10px;
+}
+.emptyblock{
+  margin-top:10000px;
+}

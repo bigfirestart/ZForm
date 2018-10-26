@@ -1,0 +1,23 @@
+.logo{
+  padding-top: 30px;
+  font-family: "Andale Mono";
+  font-weight: 1000;
+  text-align: center;
+  float: none;
+}
+.form{
+  font-family: "Andale Mono";
+  text-align: center;
+
+}
+label{
+  color: blue;
+}
+
+.demo{
+  padding-top: 200px;
+}
+hr{
+  background-color: blue;
+  color: blue;
+}
